@@ -11,5 +11,8 @@ chmod 777 ubuntu.sh
 
 ./start-ubuntu.sh
 
+Based off of 
 
 
+
+https://github.com/MFDGaming/ubuntu-in-termux
